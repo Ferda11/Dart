@@ -1,0 +1,12 @@
+void main() {
+  int nbre=55;
+  if(nbre<70){
+    print('$nbre pi piti ke 70');
+  } else if(nbre>70){
+    print('$nbre pi gro ke 70 ');
+  }
+  else{
+    print('$nbre egal a 70');
+  }
+    
+}
